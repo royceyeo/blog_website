@@ -13,7 +13,7 @@ from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 
 from dotenv import load_dotenv 
 import os
-load_dotenv()
+# load_dotenv()
 # Optional: add contact me email functionality (Day 60)
 # import smtplib
 
